@@ -20,7 +20,7 @@ Before diving into Selenium, ensure your system is equipped with the necessary p
 ## Clone Repository
 Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/GameAnalyst-Hamza/Selenium-Practice.git
+   git clone https://github.com/Craftzman-Hamza/Selenium-Practice.git
    ```
 
 Checkout to Project directory:
